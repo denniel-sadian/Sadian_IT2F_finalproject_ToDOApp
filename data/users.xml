@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE users [
+<!ELEMENT users (user)+>
+<!ELEMENT user (name , list)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT list (todo)*>
+<!ELEMENT todo (what , done)>
+<!ELEMENT what (#PCDATA)>
+<!ELEMENT done (#PCDATA)>
+<!ATTLIST user username CDATA #REQUIRED>
+<!ATTLIST user password CDATA #REQUIRED>
+<!ATTLIST todo id CDATA #REQUIRED>
+]>
+<users>
+  <user username="ladygaga" password="MTIzNA==">
+    <name>Lady Gaga</name>
+    <list>
+      <todo id="1653237035107">
+        <what>In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.</what>
+        <done>0</done>
+      </todo>
+      <todo id="1653237068850">
+        <what>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</what>
+        <done>1</done>
+      </todo>
+      <todo id="1653237107984">
+        <what>"Bad Romance" is a song by American singer Lady Gaga from her third EP, The Fame Monster (2009), the reissue of her debut studio album, The Fame (2008). Gaga co-wrote and co-produced the song with RedOne.</what>
+        <done>0</done>
+      </todo>
+      <todo id="1653237162694">
+        <what>Made for You and powered by You, Purpl is a user-centric app built to provide You with a seamless experience when sending, receiving and spending Your money. Purplme.com</what>
+        <done>0</done>
+      </todo>
+    </list>
+  </user>
+</users>
