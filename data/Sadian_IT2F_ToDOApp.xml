@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE structure [
+<!ELEMENT structure (page)+>
+<!ELEMENT page (title, description, link)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT link (#PCDATA)>
+]>
+<structure>
+    <page>
+        <title>ToDO App - Welcome</title>
+        <description>The landing page of the website</description>
+        <link>index.php</link>
+    <page>
+    <page>
+        <title>ToDO App - Login</title>
+        <description>The login page</description>
+        <link>login.php</link>
+    <page>
+    <page>
+        <title>ToDO App - Sign-up</title>
+        <description>The registeration page</description>
+        <link>signup.php</link>
+    <page>
+    <page>
+        <title>ToDO App - About Us</title>
+        <description>The about section of the website</description>
+        <link>about.php</link>
+    <page>
+    <page>
+        <title>ToDO App - Arlene Rejano</title>
+        <description>The introduction of Rejano</description>
+        <link>dev.php?id=0</link>
+    <page>
+    <page>
+        <title>ToDO App - Arlene Rejano</title>
+        <description>The ambition of Rejano</description>
+        <link>dev.php?id=0&amp;ambition</link>
+    <page>
+    <page>
+        <title>ToDO App - Arlene Rejano</title>
+        <description>The reason why Rejano chose IT</description>
+        <link>dev.php?id=0&amp;it</link>
+    <page>
+    <page>
+        <title>ToDO App - Alyannah Marie Rey</title>
+        <description>The introduction of Rey</description>
+        <link>dev.php?id=1</link>
+    <page>
+    <page>
+        <title>ToDO App - Alyannah Marie Rey</title>
+        <description>The ambition of Rey</description>
+        <link>dev.php?id=1&amp;ambition</link>
+    <page>
+    <page>
+        <title>ToDO App - Alyannah Marie Rey</title>
+        <description>The reason why Rey chose IT</description>
+        <link>dev.php?id=1&amp;it</link>
+    <page>
+    <page>
+        <title>ToDO App - Denniel Luis Sadian</title>
+        <description>The introduction of Sadian</description>
+        <link>dev.php?id=2</link>
+    <page>
+    <page>
+        <title>ToDO App - Denniel Luis Sadian</title>
+        <description>The ambition of Sadian</description>
+        <link>dev.php?id=2&amp;ambition</link>
+    <page>
+    <page>
+        <title>ToDO App - Denniel Luis Sadian</title>
+        <description>The reason why Sadian chose IT</description>
+        <link>dev.php?id=2&amp;it</link>
+    <page>
+    <page>
+        <title>ToDO App - Contact Us</title>
+        <description>The contact page of the website</description>
+        <link>contact.php</link>
+    <page>
+    <page>
+        <title>ToDO App - List</title>
+        <description>A protected page where the todo list of the user is written</description>
+        <link>list.php</link>
+    <page>
+</structure>
