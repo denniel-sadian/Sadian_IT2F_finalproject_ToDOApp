@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE devs [
+<!ELEMENT devs (dev)+>
+<!ELEMENT dev (name, pic, email, phone, about, ambition, whyit)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT pic (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT about (p)+>
+<!ELEMENT ambition (p)+>
+<!ELEMENT whyit (p)+>
+<!ELEMENT p (#PCDATA)>
+]>
+<devs>
+  <dev>
+    <name>Arlene Rejano</name>
+    <pic>img/rejano.jpg</pic>
+    <email>arlenerejano72@gmail.com</email>
+    <phone>09262136884</phone>
+    <about>
+      <p>"The Best Way To Predict your future is to Create It." I am Arlene Rejano, known as Veyn, 20
+      years old, from Hinadharan Mogpog Marinduque. I am a student at Marinduque State College. I am
+      the eldest child of Arsenio Rejano, and Lenlie Rejano, I have two siblings, followed by Ailene
+      Rejano and Rey Alexes Rejano. Most people know me as a son of the barangay captain, but not
+      because of my singing talent. We have a simple life. My family is known to be reliable and
+      approachable when it comes to helping others, as well as getting along well with our neighbors.
+      I can say that I am a strong, hardworking, and dependable child. In my Education since Elementary
+      I can't say it's easy because I know, our life isn't that good, When I was in Senior High School
+      there were times when I just thought I stopped studying because I knew my parents were having a
+      hard time especially with nothing. they do a good job. My father did not earn enough to be a Captain
+      and so did my mother who is a BNS. I also don't know where I can get money that can help and deduct
+      from my parents' expenses, especially since I used to rent a house because the school I go to is far
+      away, and if I go home every day I can't afford it either because 500 only my allowance a week. For
+      500 pesos I can fit it in a week. . There came a time when it didn't fit me for a week because I
+      had to buy my school supplies, I also had a lot of pin and printed papers that I used to study.
+      Sometimes I don't come home because I don't have the fare to go home, my cousin just brings my
+      allowance when he comes in, When I finished Grade 11 I thought of trying to work with our cousin
+      who has a luxurious life, even as a housemaid or in their office as an encoder, I let my parents
+      know I was leaving because I wanted to work so I could help with household expenses, and so I knew
+      how to buy what I would use when entering grade 12.</p>
+      <p>They allowed me to work. The time came when I was already working in my Aunt's office, I felt my
+      parents were tired when I was working, my aunt hired me as an encoder, but I was only in the office
+      for three days because they only let me in at home and what to do I was just there to watch over
+      their child, clean the house, and tutor their nephews, it didn't come easy for me because I had to
+      extend my patience especially with the children, there were times before, you suddenly the children
+      will sneeze, and sometimes speak badly. It was nice of them to come to me as an assistant. Aside
+      from being a maid, others shop for nails to supplement my future salary, they used to make rags,
+      so when I finished my work inside the house, I sidelined my aunt's brother to make rags. I used to
+      earn more than 3k making rags, and my salary as a working assistant was 5k. Before I left my aunt's
+      house, they paid me a visit, and I didn't expect them to buy me a new cellphone that I could use to
+      study, such as a new pair of shoes that I could use when I entered. I also went to my parents'
+      siblings first, they also gave me money for my education. And in an unexpected event, I got on the
+      bus then, with my cousin on the way home. We're going to pay the fare, I'm looking for my wallet
+      that almost has the money I earned, I don't know what to do during the village hours, because I
+      really don't know where to find the wallet, my cousin tried to p = ask the fee collector if you
+      can see the CCTV footage during village hours. But we failed to see and it was too late to take
+      it because it ran fast with my wallet. I wanted to cry when we were on the bus, I didn't know what
+      to say to my parents when I arrived, I texted my uncle, and I said that my wallet was stolen, along
+      with my salary. My uncle immediately called me and asked me what happened and I only cried when I
+      answered him.</p>
+      <p>It was Tito who communicated with my parents and told me what had happened. I didn't know how
+      to tell my parents when they called me on the bus. I'm just thankful because I was with my cousin
+      during the village hours, my parents first lent me money from my cousin for the fare home, I didn't
+      say a word on the flight, I could hardly speak when my cousin was even on the ship, I didn't have
+      any appetite and sleep. When I came home a strict yaka greeted me from my mother, I couldn't help
+      but sigh because I had to be the one to greet them. I didn't even cry then but cried until I fell
+      asleep. I can't fully imagine that the parents will cover the expenses because they will be the ones
+      to pay the money I borrowed from my cousin to go home. So when I entered grade 12 I thought of
+      trying to shop again, I tried online selling I started selling clothes, I looked for a supplier
+      that I could get the clothes I would sell, I was lucky to be an online seller, the money I earn
+      I buy for my necessities and the rest I buy groceries every week and take home. The ones I
+      collected I used when I debuted. I bought what I needed for my debut, so that it would be less
+      than my parents' expenses. The money given to me during my debut, I gave to my parents, I only
+      reduced it by 3k to invest in reselling, a huge amount of grace was exchanged for me even though I
+      lost a lot of money.</p>
+      <p>Until I went to college, I didn't stop Online Selling because it helps me so much. Sometimes
+      it doesn't become enough, especially when I have to save money because I buy a laptop that can be
+      used for online classes. My parents sold our pet buffalo to supplement the laptop I was buying.
+      Until now in college I never tired of continuing my education because I know that it will help my
+      family a lot one day. I also haven't lost the people I've always relied on, especially my boyfriend
+      who has always supported all my dreams in life. We always say that all problems have blessings in
+      return and all problems we can overcome just for our future and our family. Although we hear a lot
+      of things that are not good for our neighbors that sometimes affect us, we try to ignore it because
+      we know what is true as long as the important thing is that we do the things that we know will help
+      us grow.</p>
+    </about>
+    <ambition>
+      <p>A simple student who only wants to finish school and achieve life's dreams, even if we are poor.
+      At a young age I wanted to help my parents I became strategic so I entered Online selling even though
+      it was a bit difficult to keep up with my studies but it strengthened me more so that I could finish
+      my studies. I chose this course because I know and I will be able to finish it even though many
+      people tell me that this course is difficult especially and I do not have a loptop and gadgets so
+      I really tried to buy a loptop with the money I saved in online selling. With the amount of trials
+      that go through my life, I prefer to continue, because I know that all the trials that I have gone
+      through in my life, I know that this will be the one that will inspire and strengthen me. As a
+      eldest child you have to be hardworking and strategic because I have so many dreams for myself
+      and my family.</p>
+      <p>Everyone wants to be successful and become rich, and I am also dream of becoming successful in
+      the field  I choose although I am still indecisive about the career  path I will choose. But I know
+      whatever I choose I will work hard, stay focused and make it big. I also dream of doing something
+      for my family. I want to give back to my parents all the support they give me. because I know that
+      they are the extra size of amabag in my life so that I can study and be that inspiring me to be able
+      to finish. I want to repay all the tiredness they experienced with things that they also dreamed
+      of getting. I used to build a big house for them, buy fancy clothes as well as the car they wanted
+      to buy. as well as being able to build a business that they can be busy with and help other people
+      who need work.</p>
+      <p>First of all I have to finish my education, because I want to have a good job so that I can
+      earn a good salary, which I will use for my future. One of my ambitions is to also help the poor
+      like us, just in case I get rich I will not hesitate to help their needs. They say it's not bad to
+      want a good life we all have the right to dream, but it's up to us how we progress, because you have
+      nowhere to go if we don't pursue our dream, especially if we don't know how to work hard.</p>
+    </ambition>
+    <whyit>
+      <p>I choose IT not because I was only encouraged by my friends or whatever. I chose this because I know in myself that this is what I can do and here I can apply what I learned when I was still in Senior High School. We know that IT is not easy, especially and it requires gadgets like laptop, cellphone, a desktop. But despite what I know that when you finish IT many jobs we can enter some of which here are the Support Specialist, Web developer, Computer programmer, Systems analyst, Software engineer, Network engineer and more. As a future IT Professional, I will prepare my self ethically for the challenges of the field by means of framing my professional life as a quest for contribution rather than achievement because it can fundamentally change the way I approach my career. Challenges are natural in life so we should always be prepared for it. I need to show strong will and dedication, I will set clear goals which can also help me lay the ground work for ethical behavior. Aside from that I will come to know and understand my personal strengths and weaknesses because that can be a great help in surpassing the challenges that go along my way. I will develop good relationships with myco-workers or people outside and inside the organization that can help me enhance my skills and who can support me when it comes to moral decisions. One more thing is to be consistent and be good in making good decision. A profession is always a profession, and once we have one, we must always remember that it is a part of our entire lives. For the sake of our profession success, we can forsake activities we used to do and even our personal happiness. As a future IT professional, I will accept my obligation to serve the public and I will use my skills knowledge to help people to be comfortable with their own lives and not to have a burden in terms of information technology. It is my responsibility or mission to carry out the task that given to me and I will never leave the profession that I am in, to better serve the people around me. I will visualize the society as my workplace for me to understand the needs of my clients and to meet those needs at once. I will do my job honesty and properly so that my clients will put their trust in me and if that happens, they will also put their trust in the organization or company that I am working with. I will not turn my back to the responsibilities provided for me and I will do my best and never be feel tired to accomplish what was given to me. Responsibility is very important and in accepting responsibility there are many choices and they're almost always our choices to make.</p>
+      <p>There are many reasons why I choose Information Technology. This course will help you to branch out in your profession in a variety of ways. IT graduates will also be able to specialize in a wide range of fields. Many of these occupations are tough and stressful, yet they all pay well. A variety of things affect your decision to pursue a career in information technology. Keep in mind that as a fresh graduate who is just getting their foot in the door, you will not make as much as someone who has been in the business for years. However, if you specialize in a research field or computer language, you might expect to earn a lot of money in the future. Professionals in information technology are among the top ten highest-paying occupations in South Africa. The demand for information technology workers will only grow as technology advances. And the stronger your skill set, the more your expertise will be in demand. The information technology business continues to demonstrate a positive demand trend despite the scarcity of employment. Majoring in information technology will expose you to a lot of opportunities and jobs. There are employment available in this business regardless of your specialization in information technology.  As a student of Information Technology I see that there are many opportunities that will come to me in the future, although it will not be easy but I have to cope.</p>
+    </whyit>
+  </dev>
+  <dev>
+    <name>Alyannah Marie Rey</name>
+    <pic>img/rey.gif</pic>
+    <email>ricamarayana@gmail.com</email>
+    <phone>09264436984</phone>
+    <about>
+      <p>I am Alyannah Marie Rey, 20 years of age, residing at Hupi Santa Cruz Marinduque. My life is not the same as others, my experiences are worst that made me who I am today, the bolder, the stronger and the responsible me. I am a person who has started to be positive about every aspect of life. There are many things I like to do, see, and to experience. I like to read, I like to write; I like to think a lot and do thought experiment (that’s why maybe I find it so hard to fall asleep I guess lol); I like to listen more and talk less. I like to be alone sometime, I like delicious food and like to try out new food. I love the nature and it’s serene beauty. I like silence and I hate noisy places and noisy people. I am also a self-driven, motivated woman. As a person, I think, i am sensitive, yet self-contained. Yes, At times, I find it hard to hide my emotions, though, I don’t consider sensitivity as an emotion of weaker people, being sensitive is infact a strong personality because we can feel the emotions and pain of other human being. I just find myself happy with the simple things. Appreciating the blessings God gave me. Some days are just bad days, that’s all. You have to experience sadness to know happiness, and I remind myself that not every day is going to be a good day, that's just the way it is!</p>
+    </about>
+    <ambition>
+      <p>My ambition in life is to be successful in a way that I can sustain all my family's fund and can help other people. Also to have my own family and live my life to the fullest.</p>
+    </ambition>
+    <whyit>
+      <p>I am a 2nd year college student, taking the course of Bachelor of Science in Information Technology. The first thing that comes to my mind when I choose this course is because I want to be practical and taking this course will lead me to get a job easily after college, but when I loved this course and when I get to know more about this course and it’s lesson I become more dedicated to pursue and finish this course not because I will get hired for the jobs easily but because this course made me realize that this is my path, I am destined to be one of the IT professionals. The Information Technology industry is one of the fastest-growing sectors worldwide providing jobs full of opportunities for professional success. The IT industry offers quick employment, opportunities in every sector, multiple career paths, high salaries, and it's easy to enter this industry without a college degree. This are the advantages of choosing IT as your course and I am glad that I am one of those hundreds or thousands of students who take this.</p>
+    </whyit>
+  </dev>
+  <dev>
+    <name>Denniel Luis Sadian</name>
+    <pic>img/sadian.jpg</pic>
+    <email>sadiandenniel@gmail.com</email>
+    <phone>09453045616</phone>
+    <about>
+      <p>I am Denniel Luis Sadian, from Gasan, Marinduque. I am 20, and I love watching movies and series on
+      Netflix. I was born in Cabugao, Gasan, Marinduque. We used to be an NPA (No Permanent Address), but now,
+      we came back to Cabugao and we are now permanent here. Based from my personal experience, it's really
+      difficult not having your own house because you have to always pay rent every month, and rent is quite
+      expensive. I had my elementary days in Tiguion, and it's where most of my childhood happened. I fell into
+      a canal when I was playing outside, I just want to share. I took high school at Marinduque Midwest College,
+      and it's where I discovered that I like to do computer things, but if you ask me to hack your partner's
+      social media accounts, please don't talk to me anymore. I'm currently working as a part-time web developer at Purplme.com. And now, I'm studying Information Technology at
+      Marinduque State College and I'm really looking forward to ending this school year.</p>
+    </about>
+    <ambition>
+      <p>I am a very ambitious person, and nothing is wrong with that. I don't just want to graduate from college,
+      I "will" graduate from college. I will get myself a job, a software job. I do not want just any job
+      because I don't want to become under-employed. I want to get employed according to what I studied in college.
+      As much as possible, I want to work abroad because the Philippines do not give value to IT professionals, just
+      like the way they don't give more value to our nurses here. My God. Hello? Nurses deserve more salary raise than
+      policemen. Being very competent is one of my ambition. I am going to make sure that after I graduate, I'm going to be
+      as competent as possible. I'll make sure that I know very well the trendy technologies that are being used
+      in the real world, so tech companies would hire me quickly. I want to help my family, my entire family. I will give
+      a starting capital to my relatives who failed to graduate, so they could build their own business,
+      that way, they won't just depend on other people. I will give thanks to those who supported me while I was studying.</p>
+    </ambition>
+    <whyit>
+      <p>I chose to study Information Technology at Marinduque State College because it is a practical course for
+      me to take. I studied Information and Communication Technology in senior high school, so I already know how to code.
+      Actually, before I stepped into senior high school, I already know how to code. I got 100% as a grade for our
+      finals in Computer Programming. If students from high school want to take Information Technology in college as their
+      course, then they should really start to learn coding, because college does not teach you how to code, it just
+      tells you that your course is about coding and that you have to do most of the teachings by yourself. If you want
+      IT, you better know already how to code before even writing down IT as your course in your enrollment form.</p>
+    </whyit>
+  </dev>
+</devs>
